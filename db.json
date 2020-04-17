@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Zumo de Naranja2",
+      "price": "112"
+    },
+    {
+      "name": "Zumo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Víctor Palacios Gonzalez",
+      "price": 5000,
+      "id": 7
+    },
+    {
+      "name": "juanete",
+      "price": 500,
+      "id": 9
+    },
+    {
+      "name": "Zumo de tomate",
+      "price": 100,
+      "id": 11
+    },
+    {
+      "name": "starbucks",
+      "price": 100,
+      "id": 12
+    }
+  ]
+}
